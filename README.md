@@ -15,14 +15,14 @@
 - Typescript
 - Zod
 - Husky
-- ESLint
+- Eslint
 - Prettier
 - Lint-staged
-- GitHub actions
+- Github actions
 <!-- - Supabase -->
 
 ## Coming more
 
-- supabase
-- update dependencies script
-- jest
+- Jest
+- Supabase
+- Update dependencies script
