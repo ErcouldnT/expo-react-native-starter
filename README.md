@@ -17,11 +17,11 @@
 - ESLint
 - Prettier
 - Lint-staged
-  <!-- - GitHub actions -->
-  <!-- - Supabase -->
+- GitHub actions
+<!-- - Supabase -->
 
 ## Coming more
 
-- gh actions
 - supabase
 - update dependencies script
+- jest
