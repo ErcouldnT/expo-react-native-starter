@@ -2,8 +2,9 @@
 
 ## Start
 
-- `yarn` install dependencies
-- `yarn start` clear the cache and start the app
+- `yarn` _install dependencies_
+- `yarn ios` _clear the cache and run ios app_
+- `yarn android` _clear the cache and run android app_
 
 ## Used Techs
 

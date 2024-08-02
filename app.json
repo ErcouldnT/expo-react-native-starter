@@ -5,28 +5,27 @@
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./lib/assets/images/icon.png",
-    "scheme": "myapp",
+    "scheme": "findwin",
     "userInterfaceStyle": "automatic",
     "splash": {
       "image": "./lib/assets/images/splash.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
+
     "ios": {
       "supportsTablet": true
     },
+
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./lib/assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       }
     },
-    "web": {
-      "bundler": "metro",
-      "output": "static",
-      "favicon": "./lib/assets/images/favicon.png"
-    },
+
     "plugins": ["expo-router"],
+
     "experiments": {
       "typedRoutes": true
     }
